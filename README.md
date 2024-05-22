@@ -6,6 +6,8 @@ I was not not happy with the original controller, because the accuracy of the an
 During research for alternatives, I came across this project by Viorel, YO3RAK: https://www.hackster.io/viorelracoviteanu/antenna-rotator-controller-compatible-with-tracking-software-48f9cd . Thanks Viorel, much appreciated!
 I used it as a basis for my project and adapted it to my specific needs.
 
+![IMG_20240427_163551](https://github.com/dc1rdb/Arduino_AntennaRotator/blob/main/pics/IMG_20240427_163551.jpg)
+
 My antenna rotator controller consists of the following:
 - Arduino Uno
 - L298N H-bridge motor driver board
