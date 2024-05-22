@@ -11,6 +11,7 @@ My antenna rotator controller consists of the following:
 - 2 rotary encoders
 - a two row I2C LCD
 - a 24 V power supply for the rotator motors
+
 The controller can be used in manual mode to set Az and El, or in conjunction with EasyCom compatible tracking software. I am using MoonSked by David Anderson, GM4JJJ. Thanks David!
 
 
